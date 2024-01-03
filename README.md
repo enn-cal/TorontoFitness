@@ -54,3 +54,8 @@ Frontend and Backend Validation
 
 Subscription plans
 <img width="1420" alt="Screen Shot 2023-02-13 at 10 13 30 PM" src="https://user-images.githubusercontent.com/90401001/218629829-1aa58b2b-8da8-4ebf-b2ab-d42ad7045eb5.png">
+
+## Authors
+Faith Dong - [FaithD186](https://github.com/FaithD186)
+Sari Hammad - [sarihammad](https://github.com/sarihammad)
+Nehchal Kalsi - [enn-cal](https://github.com/enn-cal)
